@@ -1,7 +1,7 @@
 ## 🤓💻🎧🥤🥥🏋🏼‍♂️💫
 ### Welcome to the page, my friend! 👋🏼
 
-🌱 I'm currently working on 2docs (API Docs merger for code workflows).
+🌱 I'm currently working on 2docs (API Docs aggregator for code workflows).
 Join the waitlist here: https://www.2docs.de
 
 <!--
