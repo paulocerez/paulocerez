@@ -1,7 +1,7 @@
 # Welcome to the page, my friend! 👋🏼
 
 - Building this: https://www.2docs.de <br>
-- Reading this: Designing Data-Intensive Applications <br>
+- Reading this: Designing Data-Intensive Applications by M. Kleppmann <br>
 - Enjoying this: 🍻
 
 <!--
