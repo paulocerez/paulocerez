@@ -1,8 +1,8 @@
-## 🤓💻🎧🥤🥥🏋🏼‍♂️💫
-### Welcome to the page, my friend! 👋🏼
+# Welcome to the page, my friend! 👋🏼
 
-🌱 I'm currently working on 2docs (API Docs aggregator for code workflows).
-Join the waitlist here: https://www.2docs.de
+Building this: https://www.2docs.de <br>
+Reading this: Designing Data-Intensive Applications <br>
+Enjoying this: 🍻
 
 <!--
 **paulocerez/paulocerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
