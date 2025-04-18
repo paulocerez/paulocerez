@@ -1,6 +1,6 @@
 # Welcome to the page, my friend! 👋🏼
 
-- Building this: https://www.2docs.de <br>
+- Building this: https://www.useponto.com <br>
 - Reading this: Designing Data-Intensive Applications by M. Kleppmann <br>
 - Enjoying this: 🍻
 
