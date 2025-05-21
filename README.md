@@ -1,8 +1,4 @@
-# Welcome to the page, my friend! 👋🏼
-
-- Building this: https://www.useponto.com <br>
-- Reading this: Designing Data-Intensive Applications by M. Kleppmann <br>
-- Enjoying this: 🍻
+# Welcome ☕️
 
 <!--
 **paulocerez/paulocerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
