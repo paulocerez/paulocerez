@@ -1,4 +1,6 @@
-# Welcome ☕️
+# Welcome 🤵🏻‍♂️
+
+Currently focussing on voice AI applications and agents @ telli (YC F24), as well as how applications recommend items to users.
 
 <!--
 **paulocerez/paulocerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
